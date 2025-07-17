@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bartwisch-mcprules-badge.png)](https://mseep.ai/app/bartwisch-mcprules)
+
 # MCPRules - Programming Guidelines Management Server
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
